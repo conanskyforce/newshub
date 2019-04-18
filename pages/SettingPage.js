@@ -13,7 +13,7 @@ class SettingPage extends Component {
     this.state = {
       selectedTab:'redTab',
       fitForIPhoneX:false,
-      avatarUrl:'https://img.36krcdn.com/20190314/v2_1552541675983_img_000'
+      avatarUrl:'https://img-blog.csdn.net/20161028230559575'
     }
   }
   _onPressAvatarButton(){
